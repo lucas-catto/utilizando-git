@@ -1,3 +1,7 @@
+-> Configuração local
+git config --global user.name lucas-catto
+git config --global user.email lucascattosilva2024@gmail.com
+
 -> Inicializa um repositório git (Utilizado apenas 1 vez)
 git init
 
